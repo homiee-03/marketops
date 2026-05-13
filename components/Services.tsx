@@ -17,7 +17,7 @@ export default function Services() {
               <div className="absolute inset-0 opacity-0 transition duration-500 group-hover:opacity-100">
                 <div className="absolute -right-12 -top-12 h-32 w-32 rounded-full bg-violet-flare/25 blur-2xl" />
               </div>
-              <div className="relative mb-8 grid h-14 w-14 place-items-center rounded-2xl border border-white/10 bg-gradient-to-br from-white/[0.12] to-white/[0.05] text-violet-flare">
+              <div className="relative mb-8 grid h-14 w-14 place-items-center rounded-2xl border border-white/10 bg-gradient-to-br from-white/12 to-white/5 text-violet-flare">
                 <Icon size={25} />
               </div>
               <h3 className="relative text-xl font-semibold tracking-[-0.02em] text-white">{title}</h3>

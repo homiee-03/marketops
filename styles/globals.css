@@ -12,14 +12,9 @@
   box-sizing: border-box;
 }
 
-[id] {
-  scroll-margin-top: 7rem;
-}
-
 html {
   scroll-behavior: auto;
   background: var(--background);
-  scroll-padding-top: 7rem;
 }
 
 body {
